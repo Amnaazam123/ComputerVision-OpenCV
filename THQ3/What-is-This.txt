@@ -1,0 +1,6 @@
+This folder includes concepts of:
+- Train your model from any pre-determined CNN Model on any dataset and find its accuracy.
+- Load your Model and test it on images.
+
+You can visit this link to to run these files:
+https://drive.google.com/drive/folders/1SFxDbAcbtcmT6J22G0YFdmr2oJ2mA4aY?usp=sharing
